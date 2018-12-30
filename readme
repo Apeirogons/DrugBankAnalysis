@@ -1,0 +1,2 @@
+This is a lot of code related to parsing the DrugBank database.
+There is currently some code attempting an analysis relating to the prediction of the general function of a drug given its structure. 
